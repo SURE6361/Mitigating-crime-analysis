@@ -7,7 +7,7 @@ This project aims to analyze crime-related data using Python and provide meaning
 ## 📘 Project Overview
 
 - **Project Name:** Mitigating Crime Using Data Analysis
-- **Author:** [Your Name]
+- **Author: SURENDAR K
 - **Filename:** `Mitigating_Crime_Updated1.ipynb`
 - **Goal:** To identify trends, hotspots, and anomalies in crime data to support public safety efforts.
 
